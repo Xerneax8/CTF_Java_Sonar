@@ -8,7 +8,7 @@
     <properties>
         <graalvm.version>21.3.0</graalvm.version>
         <sonar.coverage.jacoco.xmlReportPaths>${project.basedir}/../example-tsp/target/site/jacoco-aggregate/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
-    </properties> 
+    </properties>
 
     <name>Mork</name>
     <description>Metaheuristic Optimization framewoRK</description>
